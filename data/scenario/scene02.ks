@@ -5,20 +5,20 @@
 [movie  volume="100"  storage="MOVIE/Movita_(1).mp4"  ]
 [bg  storage="Gemini_Generated_Image_vboxqkvboxqkvbox.png"  time="1000"  method="fadeIn"  ]
 [chara_show  name="6人"  time="1000"  wait="true"  storage="chara/4/Gemini_Generated_Image_ukk4x4ukk4x4ukk4.png"  width="792"  height="792"  left="74"  top="8"  reflect="false"  ]
+[tb_show_message_window  ]
 [tb_start_text mode=1 ]
 #業務改善チーム
-提案があります。[p]
+提案したい事項があります。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #
-翌朝、役割分担の話は午後にすると伝えているにも関わらず、俺が出勤すると同時に業務改善チームが話しかけてきた。[p]
-
+翌朝、俺が出勤すると同時に業務改善チームが話しかけてきた。役割分担の話は午後にすると伝えていたはずだが。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
 #業務改善チーム
-私たちjは「AI」を使用して業務改善に臨みたいです。[p]
+私たちは「AI」を使用して業務改善に臨みたいです。[p]
 私たちはある程度の業務支援が終わったらMovita社を離れることになりますから、その後も御社のサポートが実施できるAIは最優先事項だと考えます。[p]
 [_tb_end_text]
 
@@ -38,7 +38,7 @@
 #
 なるほど。無償で人材派遣をしている理由はこれか。[p]
 国が総力を上げてAIに注力していることは知っていたが、企業を手伝う見返りに国が開発したAIシステムを浸透させようという魂胆のようだ。[p]
-AIを国民に使わせて、利用データを吸い取ったあげく、ゆくゆくはAI利用税なんかを徴収し始めるだろうことは目に見えている。[p]
+AIを国民に使わせて、利用データを吸い取ったあげく、利用者が増えた頃にAI利用税なんかを徴収し始めるだろうことは目に見えている。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
@@ -136,7 +136,7 @@ AIを国民に使わせて、利用データを吸い取ったあげく、ゆく
 
 [tb_start_text mode=1 ]
 #業務改善チーム
-操作説明は必要ないかと思います。彼女は話しかければどんなことも対応してくれます。[p]
+操作説明は必要ないだろうと思います。彼女に対しては普段通りに話しかけるだけで良いのです。[p]
 [_tb_end_text]
 
 [tb_start_text mode=1 ]
@@ -146,7 +146,7 @@ AIを国民に使わせて、利用データを吸い取ったあげく、ゆく
 
 [tb_start_text mode=1 ]
 #業務改善チーム
-ええ。こちらが御社の専用のAI「MOVI」です。[p]
+ええ。こちらが御社専用のAI「MOVI」です。[p]
 [_tb_end_text]
 
 [chara_hide  name="6人"  time="1000"  wait="true"  pos_mode="true"  ]
@@ -221,8 +221,9 @@ AIを国民に使わせて、利用データを吸い取ったあげく、ゆく
 帰宅後、風呂に入りながら「明日彼女と何を話そうか」等と考えるうち、甘酸っぱい青春の恋心のような気持ちになっている自分が恥ずかしくなった。[p]
 [_tb_end_text]
 
+[tb_hide_message_window  ]
 [chara_hide  name="6人"  time="1000"  wait="true"  pos_mode="true"  ]
-[stopbgm  time="1000"  ]
+[stopbgm  time="1000"  fadeout="true"  ]
 [bg  time="1000"  method="crossfade"  storage="IMAGE/black.png"  ]
 [jump  storage="scene03.ks"  target=""  ]
 [s  ]
