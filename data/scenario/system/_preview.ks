@@ -1,5 +1,3 @@
-[eval exp="f._system_preview_ks='scene04.ks'"] 
+[eval exp="f._system_preview_ks='scene05.ks'"] 
 [preload  storage="./data/fgimage/default/IMAGE/black.png"  ]
-[preload  storage="./data/bgimage/IMAGE/black.png"  ]
-[preload  storage="./data/bgimage/IMAGE/bgbg.png"  ]
 [return] 

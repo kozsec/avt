@@ -96,6 +96,7 @@ movi、システム構成資料をファイルサーバーに置いてある。�
 ”彼女”は悩むような素振りを見せている。処理中であることが分かりやすくて面白いと感じたが、その愛らしい悩み姿を拝める時間は3分程度で終了した。[p]
 [_tb_end_text]
 
+[playse  volume="120"  time="1000"  buf="0"  storage="voice/完成です.mp3"  ]
 [tb_start_text mode=1 ]
 #movi
 出来上がりました。セキュリティ啓発を目的としたオリジナルソングです。さっそく再生してよろしいでしょうか。[p]
@@ -106,14 +107,16 @@ movi、システム構成資料をファイルサーバーに置いてある。�
 [_tb_end_text]
 
 [tb_ptext_hide  time="1000"  ]
+[tb_hide_message_window  ]
 [stopbgm  time="1000"  fadeout="true"  ]
 [mask  time="1000"  effect="fadeIn"  color="0x000000"  ]
 [chara_hide_all  time="100"  wait="false"  ]
 [bg  time="100"  method="fadeIn"  storage="IMAGE/black.png"  ]
 [mask_off  time="500"  effect="fadeOut"  ]
 [movie  volume="100"  skip="true"  storage="MOVIE/LoveMail.mp4"  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
 [bg  storage="Gemini_Generated_Image_vboxqkvboxqkvbox.png"  time="1000"  method="fadeIn"  ]
+[tb_show_message_window  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=1 ]
 #あなた

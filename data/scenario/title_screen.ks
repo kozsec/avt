@@ -31,6 +31,7 @@
 [s  ]
 *start
 
+[stopbgm  time="1000"  fadeout="true"  ]
 [tb_ptext_hide  time="1000"  ]
 [tb_image_hide  time="1000"  ]
 [showmenubutton]

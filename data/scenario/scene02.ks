@@ -163,6 +163,7 @@ AIを国民に使わせて、利用データを吸い取ったあげく、利用
 なんだこれは。アニメキャラクター？[p]
 [_tb_end_text]
 
+[playse  volume="120"  time="1000"  buf="0"  storage="voice/はじめまして.mp3"  ]
 [tb_start_text mode=1 ]
 #MOVI
 はじめまして。この度、Movita株式会社を専属でご支援させていただくことになりました「MOVI」です。お気軽にモヴィと呼んでください。[p]

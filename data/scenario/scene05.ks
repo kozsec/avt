@@ -23,8 +23,9 @@
 ここはいっそ、俺が決めてしまうか。[p]
 [_tb_end_text]
 
-[glink  color="btn_07_blue"  storage="scene05.ks"  size="20"  x="335"  y="138"  width="300"  text="「海」に行く"  height=""  _clickable_img=""  target="*07"  ]
-[glink  color="btn_07_blue"  storage="scene04.ks"  size="20"  x="335"  y="268"  width="300"  text="「山」に行く"  height=""  _clickable_img=""  target="*08"  ]
+[glink  color="btn_07_blue"  storage="scene05.ks"  size="20"  x="335"  y="108"  width="300"  text="「海」に行く"  height=""  _clickable_img=""  target="*01"  ]
+[glink  color="btn_07_blue"  storage="scene05.ks"  size="20"  x="335"  y="208"  width="300"  text="「川」に行く"  height=""  _clickable_img=""  target="*01"  ]
+[glink  color="btn_07_blue"  storage="scene05.ks"  size="20"  x="335"  y="308"  width="300"  text="「山」に行く"  height=""  _clickable_img=""  target="*01"  ]
 [s  ]
 [tb_start_text mode=1 ]
 #
@@ -34,6 +35,8 @@
 すまない。私のリサーチ不足だった。[p]
 #movi
 [_tb_end_text]
+
+*01
 
 [tb_image_show  time="100"  storage="default/IMAGE/black.png"  width="700"  height="90"  x="520"  y="50"  _clickable_img=""  name="img_74"  ]
 [tb_ptext_show  x="542"  y="84"  size="16"  color="0xffffff"  time="10"  text="体験版はここまでです。"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
