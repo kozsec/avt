@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_scene04.ks]
 
 [cm  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [movie  volume="100"  storage="MOVIE/Movita_(1).mp4"  ]
 [bg  storage="Gemini_Generated_Image_vboxqkvboxqkvbox.png"  time="1000"  method="fadeIn"  ]
 [tb_show_message_window  ]
@@ -67,7 +67,7 @@ Moviには人の感情に近い要素があり、少々特殊な方法でチュ�
 Moviを連れ出して、外の世界を見せることで感情を育てるのが良いと思います。[p]
 [_tb_end_text]
 
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
 [quake  time="300"  count="3"  hmax="10"  wait="true"  ]
 [tb_start_text mode=1 ]
 #あなた
@@ -98,7 +98,7 @@ Moviを連れ出して、外の世界を見せることで感情を育てるの�
 [chara_hide  name="Movi"  time="1000"  wait="true"  pos_mode="true"  ]
 [bg  time="1000"  method="crossfade"  storage="IMAGE/black.png"  ]
 [cm  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [movie  volume="100"  storage="MOVIE/downtown.mp4"  ]
 [bg  storage="IMAGE/bgbg.png"  time="1000"  method="fadeIn"  ]
 [tb_show_message_window  ]

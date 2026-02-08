@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_scene03.ks]
 
 [cm  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg2.mp3"  ]
 [movie  volume="100"  storage="MOVIE/Movita_(1).mp4"  ]
 [bg  storage="Gemini_Generated_Image_vboxqkvboxqkvbox.png"  time="1000"  method="fadeIn"  ]
 [chara_show  name="Movi"  time="1000"  wait="true"  storage="chara/2/Gemini_Generated_Image_dlviyvdlviyvdlvi.png"  width="603"  height="603"  left="413"  top="41"  reflect="false"  ]
@@ -144,7 +144,7 @@ moviに必要な情報をインプットすれば、更に良いものを作れ�
 ずいぶん楽しそうだな。[p]
 [_tb_end_text]
 
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [tb_start_text mode=1 ]
 #
 猪部の顔を見た瞬間、血の気が引いた。それは俺が勤務中にふざけているのを見られたから・・・というのもあるが、それだけではない。[p]
@@ -214,7 +214,7 @@ moviに必要な情報をインプットすれば、更に良いものを作れ�
 だから、動画の発信とともに「作成者がAIであること」を公言する。何かあれば「AIの責任」にすれば良い。これで問題ないだろう。[p]
 [_tb_end_text]
 
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [tb_start_text mode=1 ]
 #
 耳を疑う回答が返ってきた。あの猪部が「質より量」を選んだということだろうか。[p]

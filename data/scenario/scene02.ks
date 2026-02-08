@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_scene02.ks]
 
 [cm  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [movie  volume="100"  storage="MOVIE/Movita_(1).mp4"  ]
 [bg  storage="Gemini_Generated_Image_vboxqkvboxqkvbox.png"  time="1000"  method="fadeIn"  ]
 [chara_show  name="6人"  time="1000"  wait="true"  storage="chara/4/Gemini_Generated_Image_ukk4x4ukk4x4ukk4.png"  width="792"  height="792"  left="74"  top="8"  reflect="false"  ]

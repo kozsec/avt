@@ -1,7 +1,7 @@
 [_tb_system_call storage=system/_scene05.ks]
 
 [cm  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [movie  volume="100"  storage="MOVIE/home.mp4"  ]
 [bg  storage="IMAGE/Gemini_Generated_Image_girx4igirx4igirx.png"  time="1000"  method="fadeIn"  ]
 [tb_show_message_window  ]

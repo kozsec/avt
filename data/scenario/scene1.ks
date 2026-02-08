@@ -1,8 +1,9 @@
 [_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
+[free_layermode  time="10"  wait="true"  ]
 [mask  time="1"  effect="fadeIn"  color="0x000000"  ]
-[playbgm  volume="20"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
+[playbgm  volume="40"  time="1000"  loop="true"  storage="MUSIC/bg1.mp3"  ]
 [bg  time="1"  method="crossfade"  storage="IMAGE/black.png"  ]
 [mask_off  time="1"  effect="fadeOut"  ]
 [movie  volume="100"  storage="MOVIE/Movita_(1).mp4"  ]

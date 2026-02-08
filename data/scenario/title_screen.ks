@@ -6,7 +6,7 @@
 
 [tb_keyconfig  flag="0"  ]
 [tb_hide_message_window  ]
-[playbgm  volume="30"  time="1000"  loop="false"  storage="MUSIC/op.mp3"  ]
+[playbgm  volume="100"  time="1000"  loop="false"  storage="MUSIC/op.mp3"  ]
 [tb_start_text mode=4 ]
 AVATU PROJECT
 [_tb_end_text]
@@ -17,6 +17,7 @@ AVATU PROJECT
 [mask  time="1"  effect="fadeIn"  color="0x000000"  ]
 [bg  storage="IMAGE/black.png"  method="fadeIn"  time="200"  cross="false"  ]
 [tb_image_show  time="1"  storage="default/IMAGE/bg4.png"  width="1029"  height="695"  x="329"  y="-24"  _clickable_img=""  name="img_11"  ]
+[layermode_movie  mode="lighten"  speed="1"  volume="100"  loop="true"  time="10"  wait="false"  video="MOVIE/35486_640x360.mp4"  ]
 [tb_image_show  time="1"  storage="default/IMAGE/Gemini_Generated_Image_55ec2p55ec2p55ec.png"  width="654"  height="654"  x="349"  y="28"  _clickable_img=""  name="img_10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 *title
