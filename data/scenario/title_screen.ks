@@ -22,11 +22,9 @@ AVATU PROJECT
 *title
 
 [tb_ptext_show  x="66"  y="494"  size="12"  color="0x61bdfa"  time="0"  text="presented&nbsp;by&nbsp;AVATU&nbsp;Project"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
-[tb_ptext_show  x="55"  y="414"  size="12"  color="0xffffff"  time="0"  text="ちん"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
-[tb_ptext_show  x="95"  y="414"  size="12"  color="0xffffff"  time="0"  text="もく"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
-[tb_ptext_show  x="190"  y="414"  size="12"  color="0xffffff"  time="0"  text="せん"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
-[tb_ptext_show  x="235"  y="414"  size="12"  color="0xffffff"  time="0"  text="たく"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
-[tb_ptext_show  x="42"  y="420"  size="45"  color="0xffffff"  time="0"  text="沈黙の選択"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
+[tb_ptext_show  x="170"  y="414"  size="12"  color="0xffffff"  time="0"  text="せん"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
+[tb_ptext_show  x="210"  y="414"  size="12"  color="0xffffff"  time="0"  text="たく"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
+[tb_ptext_show  x="62"  y="420"  size="45"  color="0xffffff"  time="0"  text="AIの選択"  face="sans-serif,'メイリオ'"  anim="false"  edge="undefined"  shadow="undefined"  ]
 [glink  color="btn_17_yellow"  text="START"  x="415"  y="500"  size="24"  target="*start"  width="190"  height="60"  _clickable_img=""  ]
 [glink  color="btn_17_lime"  text="CONTINUE"  x="695"  y="500"  size="24"  target="*load"  width="190"  height="60"  _clickable_img=""  ]
 [s  ]
