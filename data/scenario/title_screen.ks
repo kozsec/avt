@@ -17,7 +17,7 @@ AVATU PROJECT
 [mask  time="1"  effect="fadeIn"  color="0x000000"  ]
 [bg  storage="IMAGE/black.png"  method="fadeIn"  time="200"  cross="false"  ]
 [tb_image_show  time="1"  storage="default/IMAGE/bg4.png"  width="1029"  height="695"  x="329"  y="-24"  _clickable_img=""  name="img_11"  ]
-[tb_image_show  time="1"  storage="default/IMAGE/Gemini_Generated_Image_55ec2p55ec2p55ec.png"  width="654"  height="654"  x="530"  y="32"  _clickable_img=""  name="img_10"  ]
+[tb_image_show  time="1"  storage="default/IMAGE/Gemini_Generated_Image_55ec2p55ec2p55ec.png"  width="654"  height="654"  x="349"  y="28"  _clickable_img=""  name="img_10"  ]
 [mask_off  time="1000"  effect="fadeOut"  ]
 *title
 
